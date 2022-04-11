@@ -5,11 +5,12 @@
 ![image](Capture.JPG)
 
 `Remotely Connecting`:
-
+![image](Capture2.JPG)
 `Trying Some Commands`:
-
+![image](Capture3.JPG)
 `Moving Files with scp`:
-
+![image](Capture4.JPG)
 `Setting an SSH Key`:
-
+![image](Capture5.JPG)
 `Optimizing Remote Running`:
+![image](Capture6.JPG)

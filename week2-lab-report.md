@@ -24,3 +24,7 @@
 `Optimizing Remote Running`: In order to directly run something on the remote server, this part I only need to put ssh+my username+"the code I want it to run on remote server". This helps me saving time on running something on the remote server
 
 ![image](Capture6.JPG)
+
+# CSE 15L Spring 2022 Announcement
+We will be using [Autograder]( https://autograder.ucsd.edu) as the student queue during TA/tutor office hours
+Have a _nice_ week!

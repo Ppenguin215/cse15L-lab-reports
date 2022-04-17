@@ -27,6 +27,6 @@ Since it always ask me to put in my password and takes me a lot of time doing th
 ![image](Capture5.JPG)
 
 ### Optimizing Remote Running
-In order to directly run something on the remote server, this part I only need to put `ssh`+my username+"the code I want it to run on remote server". This helps me saving time on running something on the remote server
+In order to directly run something on the remote server, I first use `cs15lsp22ajv@ieng6.ucsd.edu "ls"` to login in and list the home directory on remote server in one line. And use `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI` to run the file
 
-![image](Capture6.JPG)
+![image](Capture new.JPG)

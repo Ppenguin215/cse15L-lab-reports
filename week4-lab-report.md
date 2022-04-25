@@ -1,16 +1,16 @@
 # Week 4 Lab Report
 
 ## File that starts with a link
+### [Test File 1](testFIle.md)
+
 ![image](week4one.JPG)
 
-[Test File 1](testFIle.md)
-
 ## File that uses `[]` but not `()`
+### [Test File 2](test1.md)
+
 ![image](week4two.JPG)
 
-[Test File 2](test1.md)
-
 ## File that uses `()` but not `[]`
-![image](week4three.JPG)
+### [Test File 3](test2.md)
 
-[Test File 3](test2.md)
+![image](week4three.JPG)

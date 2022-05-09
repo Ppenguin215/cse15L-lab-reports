@@ -2,4 +2,4 @@
 
 [Week 4 Lab Report](week4-lab-report.md)
 
-[Week 6 Lab Report](week4-lab-report.md)
+[Week 6 Lab Report](week6-lab-report.html)

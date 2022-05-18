@@ -12,8 +12,14 @@
 * If I want to use `scp` command copying a file to your account, I just need to type `scp XXX.java ieng6`
 
 ## Set up Github Access from ieng6
-![image](week6-5.JPG)
-* I have error of using `git`, I will go ask during next office hour
+![image](week6-13.JPG)
+* Public key on Github
+
+![image](week6-14.JPG)
+* Public and private key on the ieng6 server in `.ssh`
+
+![image](week6-15.JPG)
+* 
 
 ## Copy whole directories with `scp -r`
 ![image](week6-6.JPG)

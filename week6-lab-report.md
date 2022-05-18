@@ -19,7 +19,7 @@
 * Public and private key on the ieng6 server in `.ssh`
 
 ![image](week6-15.JPG)
-* 
+* [Commiting](https://github.com/nidhidhamnani/markdown-parser/commit/edcfd9315d08a15d4374482cbec02f0a348fd825)and pushing on ieng6
 
 ## Copy whole directories with `scp -r`
 ![image](week6-6.JPG)

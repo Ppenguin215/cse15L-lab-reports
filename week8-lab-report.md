@@ -17,7 +17,7 @@
 * Test Code
 ![image](picture5.png)
 * Test output
-![image](picture6.png)
+![image](picture3.png)
 
 ## ## Test for Snippet 3 (Implementation Reviewed)
 * What markdown-parse should produce
@@ -25,7 +25,7 @@
 * Test Code
 ![image](picture8.png)
 * Test output
-![image](picture9.png)
+![image](picture3.png)
 
 ## Test for Snippet 1 (My Implementation)
 * What markdown-parse should produce
